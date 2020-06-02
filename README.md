@@ -1,4 +1,4 @@
 # myrepo
-testing my setup
+testing my setup. 
 Second time I write this test line
-adding a line
+adding a line. Now should work.
